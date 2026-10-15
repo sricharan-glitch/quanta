@@ -1,0 +1,10 @@
+datasets/
+notebooks/
+docs/
+results/
+generate_datasets_v2.py
+train_models_v2.py
+security_rules_test_firestore/
+setup.bat
+*.parquet
+*.csv
