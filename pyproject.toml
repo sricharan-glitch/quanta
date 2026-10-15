@@ -24,3 +24,4 @@ package = false
 
 [tool.vercel]
 entrypoint = "run:app"
+ 
