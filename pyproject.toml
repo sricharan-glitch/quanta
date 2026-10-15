@@ -19,5 +19,8 @@ dependencies = [
     "openai>=1.50.0"
 ]
 
+[tool.uv]
+package = false
+
 [tool.vercel]
 entrypoint = "run:app"
